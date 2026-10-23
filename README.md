@@ -376,7 +376,7 @@ Distribuído sob a [licença MIT](LICENSE).
 
 <div align="center">
 
-**Feito com 💪 por [Andrius Anselmi](https://github.com/) para os moradores do condomínio.**
+**Feito por [Andrius Anselmi](https://github.com/)**
 
 <sub>Gostou? Deixe uma ⭐ no repositório.</sub>
 
